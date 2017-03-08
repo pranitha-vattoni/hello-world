@@ -1,3 +1,3 @@
 # hello-world
-new one
+new one.
 this is my first time in github
